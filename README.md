@@ -1,2 +1,2 @@
-# fokin-weather
-Making React Native Weather App
+# Weather App
+Making React Native Weather App Using React Native, Expo
