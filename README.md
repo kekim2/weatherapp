@@ -2,7 +2,7 @@
 Making React Native Weather App Using Expo
 
 1. If you want test my app, you must install expo app in your phone in advance.
-2. Download my app file, open Visual Studio Code, and turn on terminal.
+2. Download my zip file, open Visual Studio Code, and turn on terminal.
 3. Enter command "expo start", then the localhost will open in your explore.
 4. There is a QR code under left side, and change from Lan to Tunnel in CONNECTION.
 5. Also, you have to implement Expo app of your Smart phone and take picture the QR code.
